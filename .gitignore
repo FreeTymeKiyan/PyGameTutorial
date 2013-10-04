@@ -1,4 +1,5 @@
 *.py[cod]
+*.idlerc
 
 # C extensions
 *.so
